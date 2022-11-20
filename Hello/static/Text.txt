@@ -1,0 +1,6 @@
+Database
+-------------------------------------------
+Admin Detail
+User Name : ShadesBlack
+Password : Niraj@123
+-------------------------------------------
